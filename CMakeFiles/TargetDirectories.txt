@@ -1,0 +1,9 @@
+/Volumes/Transcend/src/github.com/pkufergus/cpp-curl-cache/CMakeFiles/rebuild_cache.dir
+/Volumes/Transcend/src/github.com/pkufergus/cpp-curl-cache/CMakeFiles/edit_cache.dir
+/Volumes/Transcend/src/github.com/pkufergus/cpp-curl-cache/CMakeFiles/test.dir
+/Volumes/Transcend/src/github.com/pkufergus/cpp-curl-cache/CMakeFiles/check.dir
+/Volumes/Transcend/src/github.com/pkufergus/cpp-curl-cache/CMakeFiles/cpp-lru-cache-test.dir
+/Volumes/Transcend/src/github.com/pkufergus/cpp-curl-cache/ext/gtest/CMakeFiles/test.dir
+/Volumes/Transcend/src/github.com/pkufergus/cpp-curl-cache/ext/gtest/CMakeFiles/rebuild_cache.dir
+/Volumes/Transcend/src/github.com/pkufergus/cpp-curl-cache/ext/gtest/CMakeFiles/edit_cache.dir
+/Volumes/Transcend/src/github.com/pkufergus/cpp-curl-cache/ext/gtest/CMakeFiles/googletest.dir
